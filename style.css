@@ -1,0 +1,32 @@
+.header {
+    font-family: 'Brush Script MT';
+    font-size: 40px;
+    color: goldenrod;
+    font-weight: 40px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    flex-direction: column;
+}
+
+.container {
+    display: flex;
+    flex: 1 1 1;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    background-color: antiquewhite;
+    height: 570px;
+    width: 700px;
+    margin-top: 80px;
+}
+
+
+
+
+
